@@ -1,0 +1,32 @@
+2023-05-14 00:05:158 INFO  HomePage :34 - enter EmailId
+2023-05-14 00:05:262 INFO  HomePage :44 - enter Password
+2023-05-14 00:05:318 INFO  HomePage :52 - click On Login Button
+2023-05-14 00:05:426 INFO  HomePage :34 - Get product Text [[ChromeDriver: chrome on WINDOWS (cdd1b99a7ba15c83f71a4ab0ed5e3b20)] -> xpath: //span[@class='title']]
+2023-05-14 00:05:990 INFO  HomePage :34 - enter EmailId
+2023-05-14 00:05:85 INFO  HomePage :44 - enter Password
+2023-05-14 00:05:151 INFO  HomePage :52 - click On Login Button
+2023-05-14 00:05:244 INFO  HomePage :44 - Get list of product By.xpath: //div[@class='inventory_item']
+2023-05-14 00:05:524 INFO  HomePage :34 - enter EmailId
+2023-05-14 00:05:634 INFO  HomePage :44 - enter Password
+2023-05-14 00:05:718 INFO  HomePage :52 - click On Login Button
+2023-05-14 00:05:867 INFO  HomePage :33 - Get product Text [[ChromeDriver: chrome on WINDOWS (eb99acc35806a2d0404dacb55b477cff)] -> xpath: //span[@class='title']]
+2023-05-14 00:05:617 INFO  HomePage :34 - enter EmailId
+2023-05-14 00:05:804 INFO  HomePage :44 - enter Password
+2023-05-14 00:05:910 INFO  HomePage :52 - click On Login Button
+2023-05-14 00:05:33 INFO  HomePage :43 - Get list of product By.xpath: //div[@class='inventory_item']
+2023-05-14 00:05:216 INFO  HomePage :34 - enter EmailId
+2023-05-14 00:05:377 INFO  HomePage :44 - enter Password
+2023-05-14 00:05:500 INFO  HomePage :52 - click On Login Button
+2023-05-14 00:05:684 INFO  HomePage :33 - Get product Text [[ChromeDriver: chrome on WINDOWS (1c42596a8718cde2ece3cf35b975535c)] -> xpath: //span[@class='title']]
+2023-05-14 00:05:801 INFO  HomePage :34 - enter EmailId
+2023-05-14 00:05:932 INFO  HomePage :44 - enter Password
+2023-05-14 00:05:35 INFO  HomePage :52 - click On Login Button
+2023-05-14 00:05:175 INFO  HomePage :43 - Get list of product By.xpath: //div[@class='inventory_item']
+2023-05-17 23:05:162 INFO  HomePage :32 - enter EmailId
+2023-05-17 23:05:253 INFO  HomePage :42 - enter Password
+2023-05-17 23:05:321 INFO  HomePage :50 - click On Login Button
+2023-05-17 23:05:415 INFO  HomePage :31 - Get product Text [[ChromeDriver: chrome on WINDOWS (0f833b0da31bb408fa5fcbb92715672e)] -> xpath: //span[@class='title']]
+2023-05-17 23:05:54 INFO  HomePage :32 - enter EmailId
+2023-05-17 23:05:137 INFO  HomePage :42 - enter Password
+2023-05-17 23:05:196 INFO  HomePage :50 - click On Login Button
+2023-05-17 23:05:283 INFO  HomePage :41 - Get list of product By.xpath: //div[@class='inventory_item']
